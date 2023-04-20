@@ -1,6 +1,4 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
-
-# ProGrad Lab | BRRRGRRR
+BRRRGRRR
 
 Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of ProGrads and she thought you could do a great job. 
 
@@ -44,4 +42,4 @@ Show the customer only the ingredients that they've selected on the chalk board.
 
 The customer has had a good time customizing his brrrgrrr. Time for him to pay. Use ingredient prices to calculate the cost of a brrrgrrr and display it to the customer.
 
-Happy Coding ProGrad ❤️
+Happy Coding❤️
